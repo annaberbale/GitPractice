@@ -4,8 +4,7 @@ public class Mars {
 
 	public static void main(String[] args) {
 	System.out.println("hello world");
-
-	whatever
+System.out.println("Whtaever");
 	
 	}
 
