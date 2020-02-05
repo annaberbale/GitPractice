@@ -8,8 +8,13 @@ System.out.println("Whtaever");
 
 		 JAva
 
+<<<<<<< Updated upstream
 System.out.println("New change");
 // this is code
+=======
+System.out.println("New change");// this will print Hello
+
+>>>>>>> Stashed changes
 	
 	}
 
